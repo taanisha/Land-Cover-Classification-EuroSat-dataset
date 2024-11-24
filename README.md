@@ -1,4 +1,4 @@
-Image Classification with FastAI and PyTorch
+#Image Classification with FastAI and PyTorch
 This project demonstrates how to perform image classification using the FastAI library with a pre-trained model (ResNet50) on the EuroSat dataset. The model is fine-tuned, and predictions are displayed for random images selected from the test folder in a grid format. The code also includes data preparation, training, model evaluation, and visualizations.
 
 Features
